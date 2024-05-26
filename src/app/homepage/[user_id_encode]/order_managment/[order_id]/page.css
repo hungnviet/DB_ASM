@@ -1,0 +1,9 @@
+.product_checkout_sub {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e9ecef;
+}

@@ -1,0 +1,25 @@
+.seller_management_container {
+  margin-top: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.seller_management_container table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.seller_management_container table th,
+table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.seller_management_container table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4caf50;
+  color: white;
+}
